@@ -1,0 +1,4 @@
+split,images,instances,avg_per_image
+train,1200,8138,6.78
+val,300,2337,7.79
+test,200,2068,10.34
